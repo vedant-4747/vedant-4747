@@ -1,13 +1,13 @@
-# Hi — I’m Vedant Khairnar (vedant-4747) 👋  
+### Hi — I’m Vedant Khairnar (vedant-4747)  
 **Blockchain developer & on-chain data scientist**  
 Solidity basics · On-chain analytics · Python · Data science · GitHub notebooks
 
 ---
 
-### 🔭 Current focus
+###  Current focus
 Building on-chain analytics for Ethereum: wallet feature engineering, unsupervised anomaly detection (IsolationForest), and supervised validation (XGBoost). Also exploring Solidity smart contracts and DApp integration.
 
-### 📂 Featured projects
+###  Featured projects
 - **On-chain Anomaly Detection (Ethereum)** — _wallet analytics + anomaly scoring_.  
   🔗 https://github.com/vedant-4747/ethereum-anomaly-detection
 
@@ -17,18 +17,18 @@ Building on-chain analytics for Ethereum: wallet feature engineering, unsupervis
 - **DS tasks (index)** — notebooks for internship tasks (Decision Tree, EDA, Sentiment, Traffic EDA).  
   🔗https://github.com/vedant-4747?tab=repositories
 
-### 🛠 Key skills
+###  Key skills
 **Blockchain & Web3:** Solidity (basics), Truffle/Ganache, Web3.js  
 **Data / ML:** Python, pandas, NumPy, scikit-learn, XGBoost, IsolationForest, SHAP  
 **Tools:** Git, Jupyter, Docker (basic), NetworkX, matplotlib/seaborn
 
-### 📫 Contact
+###  Contact
 - LinkedIn: https://www.linkedin.com/in/vedant-jagdish-khairnar-500967317/  
 - Email: khairnarvjk47@gmail.com
 
 ---
 
-### 📈 GitHub Stats (optional)
+###  GitHub Stats 
 <!--
 [![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedant-4747&show_icons=true&theme=dark)](https://github.com/vedant-4747)
 -->
